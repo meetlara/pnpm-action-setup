@@ -20,13 +20,5 @@
   "devDependencies": {
     "esbuild": "^0.27.4",
     "typescript": "^5.3.3"
-  },
-  "pnpm": {
-    "overrides": {
-      "fast-xml-parser@5.2.5": "^5.7.0",
-      "undici@5.29.0": "^6.24.0",
-      "minimatch@3.1.2": "^3.1.4",
-      "brace-expansion@1.1.12": "^1.1.13"
-    }
   }
 }
